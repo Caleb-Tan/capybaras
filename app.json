@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "capybaras",
+    "slug": "capybaras",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "capybaras"
+}
